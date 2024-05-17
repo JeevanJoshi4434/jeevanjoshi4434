@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Coderscrux](https://coderscrux.com)
 
-- 👨‍💻 All of my projects are available at [https://jeevanjoshi.netlify.com](https://jeevanjoshi.netlify.com)
+- 👨‍💻 All of my projects are available at [https://jeevanjoshi.netlify.app](https://jeevanjoshi.netlify.app)
 
 - 💬 Ask me about **React, NodeJs, NextJs, Dart, MongoDB**
 
