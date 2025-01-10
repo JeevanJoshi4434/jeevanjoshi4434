@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevanjoshi4434" alt="jeevanjoshi4434" /></a> </p>
 
-- 🔭 I’m currently working on [Coderscrux](https://www.coderscrux.com/)
+- 🔭 I’m currently working on **MERN** and **Cloud Computing**
 
-- 🌱 I’m currently learning **Machine Learning,**
+- 🌱 I’m currently learning **Amazon Web Services**
 
 - 👨‍💻 All of my projects are available at [https://jeevanjoshi.netlify.app/](https://jeevanjoshi.netlify.app/)
 
 - 📝Sometimes I write articles on [https://medium.com/@jeevanjoshii](https://medium.com/@jeevanjoshii)
 
-- 💬 Ask me about **Docker, NodeJs, Redis, TypeScript, JavaScript, ReactJs, NextJs, MongoDB, PostgreSQL, MySQL**
+- 💬 Ask me about **NodeJs, Redis, TypeScript, JavaScript, ReactJs, NextJs, MongoDB, PostgreSQL Etc**
 
 - 📫 How to reach me **jeewanjoshi25@gmail.com**
 
