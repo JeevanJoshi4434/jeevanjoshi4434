@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Jeevan Joshi</h1>
 <h3 align="center">A passionate Backend Engineer Aka DevOps from Uttarakhand (India)</h3>
 
@@ -5,9 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevanjoshi4434" alt="jeevanjoshi4434" /></a> </p>
 
+----------
+
 - 🔭 I’m currently working on **MERN** and **Cloud Computing**
 
 - 🌱 I’m currently learning **Amazon Web Services**
+
+- 👨‍💻 Highlighting my Repositories: [https://jeevanjoshi.netlify.app/](https://jeevanjoshi.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://jeevanjoshi.netlify.app/](https://jeevanjoshi.netlify.app/)
 
@@ -17,7 +22,60 @@
 
 - 📫 How to reach me **jeewanjoshi25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16g5mbpgdcUBdvSC9jcMWD59YRzmqGX4d/view?usp=sharing](https://drive.google.com/file/d/16g5mbpgdcUBdvSC9jcMWD59YRzmqGX4d/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1vGvbzQsZf5MJwXwCIbZkAgDj_5FBxxFX/view?usp=sharing)
+
+### 🚀 Highlighted Projects
+
+Here's a curated list of my favorite and most impactful repositories:
+
+----------
+
+### 🔐 [**E-Wallet - UPI Payment App**](https://github.com/JeevanJoshi4434/E-wallet-UPI-payment-app)
+
+> Microservice-based digital wallet system with additional UPI payment integration.
+![Tech](https://img.shields.io/badge/architecture-microservice-blueviolet?style=flat-square)
+
+🧰 `Node.js` · `NextJs` · `Redis` · `PostgreSQL` · `Kafka` · `RabbitMQ` · `Docker`
+
+----------
+
+### 📡 [**NearShare**](https://github.com/JeevanJoshi4434/NearShare)
+
+> Monolithic app for seamless offline file sharing between devices.
+
+![Tech](https://img.shields.io/badge/architecture-monolithic-lightgrey?style=flat-square)
+
+🧰 `TypeScript` · `React Native` · `UDP` · `Wi-Fi Direct`
+
+----------
+
+### ⚙️ [**CompilerX**](https://github.com/JeevanJoshi4434/compilerX)
+
+> Lightweight custom language compiler and code execution environment.
+![Tech](https://img.shields.io/badge/architecture-monolithic-lightgrey?style=flat-square)
+
+🧰 `C language` · `Assembly` 
+
+----------
+
+### 🛍️ [**ML-Recognized E-Commerce App**](https://github.com/JeevanJoshi4434/ML-Recognized-ECommerce-App)
+
+> Microservice-based e-commerce platform with machine learning insights.
+![Tech](https://img.shields.io/badge/architecture-microservice-blueviolet?style=flat-square)
+
+🧰 `React.js` · `Flask` · `Machine Learning` · `Kafka` · `MongoDB` · `NodeJS` · `AWS` · `AWS Rekognizer` · `AWS Transcribe` · `AWS S3 Bucket`
+
+----------
+
+### 👨‍💻 [**Coderscrux**](https://github.com/CodersCrx/Coderscrux/)
+
+> Microservice-based learning, hackathons & collaboration platform.
+![Tech](https://img.shields.io/badge/architecture-microservice-blueviolet?style=flat-square)
+
+🧰 `React.js` · `Node.js` · `Redis` · `WebSocket` · `MongoDB` · `Docker` · `Compiler` · `Kafka` · `SocketIO`
+
+----------
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
