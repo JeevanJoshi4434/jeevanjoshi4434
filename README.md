@@ -81,7 +81,7 @@ Here's a curated list of my favorite and most impactful repositories:
 <p align="left">
 <a href="https://dev.to/jeevanjoshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeevanjoshii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/-jeevanjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-jeevanjoshi" height="30" width="40" /></a>
-<a href="https://medium.com/@jeevanjoshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeevanjoshii" height="30" width="40" /></a>
+<a href="https://medium.com/@jeewanjoshi25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeewanjoshi25" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jeevanjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeevanjoshi" height="30" width="40" /></a>
 </p>
 
